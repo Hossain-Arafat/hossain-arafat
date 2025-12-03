@@ -90,15 +90,6 @@ I enjoy learning how intelligent systems can turn data into meaningful insights 
 
 ---
 
-### GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossain-Arafat&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Arafat&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### Connect with Me  
 
 - [LinkedIn](https://www.linkedin.com/in/arafathossain-cs/)  
