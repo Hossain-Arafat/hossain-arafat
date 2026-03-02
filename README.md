@@ -82,12 +82,12 @@ I enjoy learning how intelligent systems can turn data into meaningful insights 
 - **Footstep Energy Generator with RFID Authentication**  
   An Arduino-based system that converts footsteps into electrical energy using piezoelectric sensors with RFID-based authentication.  
   *Tech:* Arduino Uno, Piezoelectric Sensors, RFID Sensor, C++
-  [🔗 View Repository](https://github.com/Hossain-Arafat/Footstep-Energy-Generator-With-RFID-Authentication)
+  [View Repository](https://github.com/Hossain-Arafat/Footstep-Energy-Generator-With-RFID-Authentication)
 
 - **Regional Product Trade Management System**  
   A C# and SQL Server-based platform that connects regional sellers and buyers to promote local products.  
   *Tech:* C#, .NET Framework, SQL Server  
-  [🔗 View Repository](https://github.com/Hossain-Arafat/Regional-Product-Trade-Management-System.git)
+  [View Repository](https://github.com/Hossain-Arafat/Regional-Product-Trade-Management-System.git)
 
 ---
 
