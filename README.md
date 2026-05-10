@@ -39,7 +39,7 @@ I’m especially curious about how models understand **human language and visual
 
 ---
 
-## LegalEase BD -- AI Legal Assistant for Bangladeshi Law
+## LegalEase BD - AI Legal Assistant for Bangladeshi Law
 
 <p>
   <img src="https://img.shields.io/badge/LLM-LLaMA--3--70B-orange?style=flat-square" />
@@ -57,7 +57,7 @@ I’m especially curious about how models understand **human language and visual
 
 ---
 
-## DeepAttend -- Face Recognition Attendance System
+## DeepAttend - Face Recognition Attendance System
 
 <p>
   <img src="https://img.shields.io/badge/Model-MobileNetV2-blue?style=flat-square" />
@@ -90,39 +90,67 @@ I’m especially curious about how models understand **human language and visual
 
 ---
 
-## Tech Stack
+# Tech Stack
+
+<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### AI / ML
+### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### LLM / RAG / NLP
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-Retrieval-blue?style=flat-square)
+![Sentence%20Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F61?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-007BA7?style=flat-square&logo=seaborn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/OpenCv-007BA7?style=flat-square&logo=opencv&logoColor=white)
-
-### Tools
+![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
+### Web / Backend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST%20API](https://img.shields.io/badge/REST-API-green?style=flat-square)
+
+### Desktop / Database
+![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Windows%20Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=flat-square)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=flat-square)
+![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=flat-square&logo=gradio&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=flat-square)
+![Modal](https://img.shields.io/badge/Modal-7F52FF?style=flat-square)
+
+</div>
 
 ---
 
@@ -135,16 +163,19 @@ I’m especially curious about how models understand **human language and visual
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossain-Arafat&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Arafat&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hossain-Arafat&theme=tokyonight&hide_border=true" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hossain-Arafat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Arafat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Hossain-Arafat&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hossain-Arafat&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
