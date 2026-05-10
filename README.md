@@ -35,51 +35,58 @@ I’m especially curious about how models understand **human language and visual
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### DeepAttend — Face Recognition Attendance System
+---
+
+## LegalEase BD -- AI Legal Assistant for Bangladeshi Law
+
+<p>
+  <img src="https://img.shields.io/badge/LLM-LLaMA--3--70B-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Retrieval-Hybrid%20RAG-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-purple?style=flat-square" />
+</p>
+
+- Built a bilingual legal AI assistant using Hybrid RAG with ChromaDB embeddings, BM25 retrieval, and Reciprocal Rank Fusion
+- Developed a production-ready FastAPI + Modal backend powered by Groq-hosted LLaMA-3-70B with structured citations and confidence scoring
+- Designed a React frontend with Bengali/English support achieving low-latency serverless inference (1–2s post-warmup)
+
+**Repo:** [LegalEase-BD](https://github.com/Hossain-Arafat/LegalEase-BD)  
+**Tech:** Python, FastAPI, Modal, Groq, ChromaDB, Sentence-Transformers, BM25, React, Vite, Tailwind CSS
+
+---
+
+## DeepAttend -- Face Recognition Attendance System
+
 <p>
   <img src="https://img.shields.io/badge/Model-MobileNetV2-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Task-Face%20Recognition-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Framework-TensorFlow-orange?style=flat-square" />
 </p>
 
-- Real-time attendance system recognizing **50+ individuals**
-- Improved robustness using **data augmentation & threshold tuning**
-- Automated preprocessing + duplicate-safe attendance logging  
+- Built a real-time face recognition attendance system supporting 50+ individuals
+- Improved recognition robustness through data augmentation and threshold tuning
+- Automated preprocessing pipeline with duplicate-safe attendance logging
 
-**Repo:** [deepattend-face-recognition](https://github.com/Hossain-Arafat/deepattend-face-recognition)  
-**Tech:** Python, TensorFlow, OpenCV  
+**Repo:** [DeepAttend](https://github.com/Hossain-Arafat/deepattend-face-recognition)  
+**Tech:** Python, TensorFlow, OpenCV
 
 ---
 
-### Regional Product Trade Management System
+## Regional Product Trade Management System
+
 <p>
   <img src="https://img.shields.io/badge/Platform-.NET-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/Database-SQL%20Server-red?style=flat-square" />
 </p>
 
-- Built a platform connecting **regional sellers & buyers**
-- Focused on enabling **local product visibility**
-- Designed complete **backend + user interaction flow**
+- Developed a marketplace platform connecting regional buyers and sellers across Bangladesh
+- Implemented product management, authentication, ordering workflow, and role-based interaction system
+- Designed SQL Server-backed backend architecture with Windows Forms frontend integration
 
-**Repo:** [Regional-Product-Trade-Management-System](https://github.com/Hossain-Arafat/Regional-Product-Trade-Management-System)  
-**Tech:** C#, .NET Framework, SQL Server  
-
----
-
-### Footstep Energy Generator With RFID Authentication
-<p>
-  <img src="https://img.shields.io/badge/Hardware-Arduino-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sensor-RFID-green?style=flat-square" />
-</p>
-
-- Generated electricity using **piezoelectric sensors**
-- Integrated **RFID authentication layer**
-- Explored **hardware-software system design**
-
-**Repo:** [Footstep-Energy-Generator-With-RFID-Authentication](https://github.com/Hossain-Arafat/Footstep-Energy-Generator-With-RFID-Authentication)  
-**Tech:** Arduino, C++, RFID  
+**Repo:** [Regional Product Trade Management System](https://github.com/Hossain-Arafat/Regional-Product-Trade-Management-System)  
+**Tech:** C#, .NET Framework, SQL Server
 
 ---
 
