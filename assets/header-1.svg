@@ -73,7 +73,7 @@
   <rect width="1200" height="300" rx="12" fill="url(#bg)"/>
 
   <!-- identity -->
-  <text class="mono eyebrow" x="66" y="106">AI &#47;&#47; ML ENGINEER &#183; DHAKA</text>
+  <text class="mono eyebrow" x="66" y="106">AI &#47; ML ENGINEER &#183; DHAKA</text>
   <text class="name" x="64" y="168">Arafat Hossain</text>
   <rect x="66" y="190" width="62" height="3" rx="1.5" fill="url(#rule)"/>
   <text class="mono sub" x="66" y="226">computer vision &#183; nlp &#183; retrieval systems</text>
